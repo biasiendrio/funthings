@@ -5,7 +5,6 @@ int main(void)
 	int i = 0;
 
 	z:
-
 		if (i < 10)
 		{
 			goto y;
